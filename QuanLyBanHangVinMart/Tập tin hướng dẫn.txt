@@ -1,0 +1,31 @@
+Mã lớp học phần: 2121112005404
+Mã sinh viên: 
+Sinh viên 1: Lê Đình Quý - 2021010267
+Sinh viên 2:Đỗ Thị Xuân Nương- 2021010245 
+Đề tài: HỆ QUẢN TRỊ QUẢN LÝ BÁN HÀNG TẠI CỬA HÀNG VINMART
+1. Hướng dẫn Attach cơ sở dữ liệu:
+Mở Microsoft SQL Server Management Studio 
+Server name: LAPTOP-72LTDGUK\SQLEXPRESS
+Authentication: Windows Authentication
+- Cần có tập tin: .mdf và tập tin .ldf ( trong thư mục)
+- Right click vào Databases
+- Chọn Attach
+- Xuất hiện hộp thoại Attach Databases 
+- Chọn Add
+- Chọn file .mdf cần attach/ok/ok
+2. Hướng dẫn Backup cơ sở dữ liệu:
+Mở Management Studio
+Trong cửa sổ Object Explorer, mở nút Databases và chọn cơ sở dữ liệu muốn thực hiện sao lưu dự phòng.
+Nhấn phải chuột lên tên cơ sở dữ liệu vừa chọn. 
+Chọn Tasks, chọn BackUp
+Trong hộp thoại BackUp Database phần Destination: chọn Remove
+Nhấn nút Add để chọn đường dẫn mới và nhập tên tập tin sao lưu dự phòng. Nhấn OK thực hiện sao lưu.
+Nhấn OK đóng hộp thoại xác nhận sao lưu
+Bây giờ mở Explorer, chuyển đến đường dẫn thư mục trên sẽ thấy một tập tin là Tên_tập_tin.bak
+3. Hướng dẫn mở file .drawio
+Mở ứng dụng drawio => Mở sơ đồ hiện có => Chọn file cần mở => Open
+4. Hướng dẫn mở file .pbix ( Power BI tạo Report)
+Mở Power BI => Chọn Tệp => Mở báo cáo => Duyệt báo cáo => Chọn file => Open
+
+
+
